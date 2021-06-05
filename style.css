@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+hr{
+    color: yellow;
+    background-color: yellow;
+}
+.name_of_objects{
+    color: yellow;
+}
+.heading{
+    width:80%;
+    font-size: 20px;
+}
